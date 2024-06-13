@@ -1,2 +1,3 @@
-# sysdig-secure-cli-plugin
-Documentation repository for sysdig-secure-cli-plugin
+# workload-protection-cli-plugin
+
+Documentation repository for workload-protection-cli-plugin (previously sysdig-secure-cli-plugin)
