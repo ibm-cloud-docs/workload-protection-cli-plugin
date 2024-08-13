@@ -5,7 +5,6 @@ toc:
     href: /docs/workload-protection-cli-plugin?topic=workload-protection-cli-plugin-workload-protection-cli
     path: workload-protection-cli-plugin
     label: Security and Compliance Center Workload Protection CLI Reference
-
   entries:
   - navgroup:
       id: reference

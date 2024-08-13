@@ -23,7 +23,7 @@ You can use `wp`, `sysdig-secure`, `security-compliance-secure`, or `scs` as ali
 {: note}
 
 ## Concepts
-{: #workload-protection-policy concepts}
+{: #workload-protection-policy-concepts}
 
 To use this CLI you will need to understand the following {{site.data.keyword.sysdigsecure_full_notm}} concepts. For more information on {{site.data.keyword.sysdigsecure_full_notm}}, see the [{{site.data.keyword.sysdigsecure_full_notm}} documentation.](/docs/workload-protection?topic=workload-protection-getting-started)
 
