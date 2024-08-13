@@ -48,14 +48,14 @@ You are notified on the command line when updates to the {{site.data.keyword.clo
 
 {{site.data.keyword.sysdigsecure_full_notm}} provides the following CLIs:
 
-[Compliance](/docs/workload-protection-cli-plugin?topic=workload-protection-cli-plugin-workload-protection-compliance-cli)
+[Workload Protection CLI](/docs/workload-protection?topic=workload-protection-workload-protection-cli)
+:   Describes how you can use the CLI to access information in IBM Cloud Security and Compliance Center Workload Protection.
+
+[Compliance](/docs/workload-protection?topic=workload-protection-workload-protection-compliance-cli)
 :   The compliance CLI lets you determine the available frameworks, platforms, and scope options as well as create and manage benchmark and compliance tasks.
 
-[Policy](/docs/workload-protection-cli-plugin?topic=workload-protection-cli-plugin-workload-protection-policy-cli)
-:   The policy CLI lets you create and manage compliance policies.
-
-[Policies](/docs/workload-protection-cli-plugin?topic=workload-protection-cli-plugin-workload-protection-policy-cli)
+[Policy](/docs/workload-protection?topic=workload-protection-workload-protection-policy-cli)
 :   The policies CLI lets you list configured compliance policies.
 
-[Version](/docs/workload-protection-cli-plugin?topic=workload-protection-cli-plugin-workload-protection-version-cli)
+[Version](/docs/workload-protection?topic=workload-protection-workload-protection-version-cli)
 :   The policy CLI lets you determine the version of {{site.data.keyword.sysdigsecure_full_notm}} CLI that is running on your account.
